@@ -1,9 +1,11 @@
 import React, { Component } from 'react'
 
+import Search from './Components/Search'
+
 class App extends Component {
   render() {
     return (
-      <h1>Hi there</h1>
+      <Search />
     )
   }
 }
