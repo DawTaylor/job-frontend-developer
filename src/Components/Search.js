@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { connect } from 'redux-zero/react'
-import axios from 'axios'
 
 import { Actions } from '../Actions'
 
